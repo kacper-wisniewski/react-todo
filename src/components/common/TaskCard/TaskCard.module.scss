@@ -1,0 +1,17 @@
+@import '../../../styles/settings.scss';
+
+.component {
+  width: 330px;
+  margin: 16px;
+  padding: 64px 32px;
+  background: $color-dark;
+  color: $color-light;
+
+  h2 {
+    color: $color-main;
+  }
+  
+  ul {
+    list-style: none;
+  }
+}

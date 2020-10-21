@@ -1,0 +1,13 @@
+@import './settings.scss';
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato-webfont', sans-serif;
+}
+
+body {
+  background: $color-main;
+  color: $color-dark;
+}

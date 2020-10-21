@@ -1,0 +1,16 @@
+@import '../../../styles/settings.scss';
+
+.component {
+  width: 100%;
+  padding: 16px 0;
+  background: $color-dark;
+
+  h2 {
+    color: $color-main;
+  }
+
+  input {
+    width: 100%;
+    margin-bottom: 16px; 
+  }
+}
